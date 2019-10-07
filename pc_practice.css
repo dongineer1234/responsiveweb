@@ -1,0 +1,22 @@
+.left,
+.right {
+  position: absolute;
+  top: 0;
+  width: 100px;
+  height: 300px;
+}
+
+.visual {
+  height: 300px;
+  background: #8de89d;
+}
+
+.left {
+  left: 0;
+  background: skyblue;
+}
+
+.right {
+  right: 0;
+  background: violet;
+}
